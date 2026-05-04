@@ -1,0 +1,6 @@
+names:
+  0: object
+  1: broom
+path: /Users/JCH/Desktop/robotics final proj/RLRoboticsFinalProject2026/datasets/mujoco_obb_with_broom
+train: images/train
+val: images/train
